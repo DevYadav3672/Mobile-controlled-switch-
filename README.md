@@ -40,6 +40,7 @@ UNIQUENESS OF THIS PROJECT :
   #define wifipass "00000000"]     
 - (5) Upload the "espcode" code in ESP8266.       
 - (6) connect the jumper wires/circuit connections according to given diagram image.
+  ![Circuit Diagram](BlynkSwitchBoard.jpg)
 
   HOW TO USE ESP8266 CODE TO COMMUNICATE BETWEEN MOBILE AND ESP82666:
 - when signal comes from IoT app esp will send a HIGH signal to arduino and when arduino read the HIGH/LOW accordingly it will on/off the relay.    
