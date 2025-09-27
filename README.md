@@ -43,6 +43,9 @@ UNIQUENESS OF THIS PROJECT :
   ![Circuit Diagram](BlynkSwitchBoard.jpg)
 
   HOW TO USE ESP8266 CODE TO COMMUNICATE BETWEEN MOBILE AND ESP82666:
-- when signal comes from IoT app esp will send a HIGH signal to arduino and when arduino read the HIGH/LOW accordingly it will on/off the relay.    
+- when signal comes from IoT app esp will send a HIGH signal to arduino and when arduino read the HIGH/LOW accordingly it will on/off the relay.
+
+THE WORKING MODEL :
+![WORKING MODEL](workingmodel.jpg)
       
        
